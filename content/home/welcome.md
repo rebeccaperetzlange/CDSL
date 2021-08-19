@@ -3,8 +3,8 @@ widget: hero
 widget_id: recent-posts
 headless: true
 weight: 10
-title: Conceptual Development in Society Lab
-subtitle: at SUNY Purchase
+title: Welcome
+subtitle: ""
 design:
   columns: "1"
   css_style: null
