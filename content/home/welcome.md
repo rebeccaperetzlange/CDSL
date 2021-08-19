@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: screen-shot-2021-08-12-at-3.45.06-pm.png
+    image: ""
 hero_media: welcome.jpg
 ---
 <br>
